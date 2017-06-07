@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".wotpspr" type="PLAIN_TEXT" />
+      <mapping pattern="ParsedOutput" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
