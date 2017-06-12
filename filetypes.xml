@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="Git file" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="fm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
