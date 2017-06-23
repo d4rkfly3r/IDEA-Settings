@@ -4,19 +4,12 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/Desktop/FFLS/Test 1" value="1478214842444" />
-            <entry key="$USER_HOME$/Desktop/FoxDenStudio/FoxCore" value="4428173194147" />
-            <entry key="$USER_HOME$/Desktop/FoxDenStudio/FoxEdit" value="7375064856338" />
-            <entry key="$USER_HOME$/Desktop/LWJGL-Desktop" value="2971969550129" />
-            <entry key="$USER_HOME$/Desktop/Last-Stand-Engine-J" value="2931024077931" />
-            <entry key="$USER_HOME$/Desktop/Mastermind/Mastermind" value="2964546870079" />
-            <entry key="$USER_HOME$/Desktop/NovaCP" value="2942302899524" />
-            <entry key="$USER_HOME$/Desktop/Project-Veairbus" value="2936721105310" />
-            <entry key="$USER_HOME$/Desktop/Ryxus/RyxusCore" value="2927293140649" />
-            <entry key="$USER_HOME$/Desktop/SAM/mods/Minecraft/TutorialMod-1.10.2" value="1468357497985" />
-            <entry key="$USER_HOME$/Desktop/SpongeForge" value="11798665757170" />
-            <entry key="$USER_HOME$/Desktop/SpongeVanilla" value="11798642631886" />
-            <entry key="$USER_HOME$/Desktop/lingvo-de-kura-igo" value="2959345823427" />
+            <entry key="$USER_HOME$/Desktop/FoxCore" value="4423523440030" />
+            <entry key="$USER_HOME$/Desktop/FoxEdit/FoxCore" value="4423523367007" />
+            <entry key="$USER_HOME$/Desktop/LWJGL-Desktop" value="2971986567556" />
+            <entry key="$USER_HOME$/Desktop/Qixalite/Cuberous/Mastermind" value="2946990610911" />
+            <entry key="$USER_HOME$/Desktop/Qixalite/Cuberous/Notitia" value="2946990637529" />
+            <entry key="$USER_HOME$/Desktop/SpongeVanilla" value="11788711285312" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -27,17 +20,11 @@
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
       <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" />
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="C:/xampp/php/php.exe" />
+        <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
+        <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -56,6 +43,7 @@
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <extension name="recording" autostart="false" />
           <option name="MAIN_CLASS_NAME" />
           <option name="VM_PARAMETERS" />
           <option name="PROGRAM_PARAMETERS" />
@@ -71,6 +59,7 @@
         </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <extension name="recording" autostart="false" />
           <module name="" />
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
           <option name="ALTERNATIVE_JRE_PATH" />
@@ -100,6 +89,7 @@
         </configuration>
         <configuration default="true" type="TestNG" factoryName="TestNG">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <extension name="recording" autostart="false" />
           <module name="" />
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
           <option name="ALTERNATIVE_JRE_PATH" />
@@ -126,22 +116,6 @@
           <listeners />
           <method />
         </configuration>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
